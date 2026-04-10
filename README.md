@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:payalbhattacharya69@gmail.com">
+  <a href="mailto:payalbhattacharya69-art@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -19,7 +19,7 @@
 - 🛠️ Currently building skills in **Python · SQL · Tableau · Power BI · Excel**
 - 🌱 Learning end-to-end analytics workflows — from raw data to business insights
 - 🔍 Love working on real-world datasets to uncover patterns and trends
-- 📫 Reach me at: **payalbhattacharya69@gmail.com**
+- 📫 Reach me at: **payalbhattacharya69-art@gmail.com**
 
 ---
 
@@ -57,7 +57,7 @@
 
 ## 🌟 Featured Projects
 
-### 🛍️ [Customer Behavior Analysis](https://github.com/payalbhattacharya69/customer_behavior_analysis)
+### 🛍️ [Customer Behavior Analysis](https://github.com/payalbhattacharya69-art/customer_behavior_analysis)
 > End-to-end data analytics project uncovering customer buying patterns, revenue trends, and discount impact
 
 - 🔍 Performed full **Exploratory Data Analysis (EDA)** using Python (Pandas, NumPy, Matplotlib, Seaborn)
@@ -66,27 +66,27 @@
 - 📊 Built an interactive **Power BI dashboard** featuring sales overview, customer demographics, and trend analysis
 - 📋 Documented findings in a business report and presentation using Gamma
 - **Stack:** Python · PostgreSQL · pgAdmin4 · Power BI · Pandas · Seaborn
-- 🔗 **[View on GitHub](https://github.com/payalbhattacharya69/customer_behavior_analysis)**
+- 🔗 **[View on GitHub](https://github.com/payalbhattacharya69-art/customer_behavior_analysis)**
 
 ---
 
-### 🛒 [Zepto SQL Data Analysis](https://github.com/payalbhattacharya69/Zepto_sql_data_analysis)
+### 🛒 [Zepto SQL Data Analysis](https://github.com/payalbhattacharya69-art/Zepto_sql_data_analysis)
 > SQL-driven analysis of Zepto's product catalog exploring pricing, discounts, and inventory patterns
 
 - 🗂️ Analyzed a real-world Zepto grocery dataset across categories like Fruits & Vegetables, Dairy, Munchies, and more
 - 📝 Wrote structured SQL queries to explore product performance, category-level trends, and stock availability
 - 💡 Extracted insights on discount distribution, out-of-stock items, and pricing across product categories
 - **Stack:** SQL · pgAdmin4
-- 🔗 **[View on GitHub](https://github.com/payalbhattacharya69/Zepto_sql_data_analysis)**
+- 🔗 **[View on GitHub](https://github.com/payalbhattacharya69-art/Zepto_sql_data_analysis)**
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=payalbhattacharya69&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=payalbhattacharya69-art&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalbhattacharya69&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=payalbhattacharya69-art&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="160"/>
 </p>
 
 ---
