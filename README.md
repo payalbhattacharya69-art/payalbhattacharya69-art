@@ -77,7 +77,7 @@
 - 📝 Wrote structured SQL queries to explore product performance, category-level trends, and stock availability
 - 💡 Extracted insights on discount distribution, out-of-stock items, and pricing across product categories
 - **Stack:** SQL · pgAdmin4
-- 🔗 **[View on GitHub](https://github.com/payalbhattacharya69-art/Zepto_sql_data_analysis)**
+- 🔗 **[View on GitHub](https://github.com/payalbhattacharya69-art/zepto-SQL-data-analysis-project)**
 
 ---
 
