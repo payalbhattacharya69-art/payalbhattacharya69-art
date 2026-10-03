@@ -19,7 +19,7 @@
 - 🛠️ Currently building skills in **Python · SQL · Tableau · Power BI · Excel**
 - 🌱 Learning end-to-end analytics workflows — from raw data to business insights
 - 🔍 Love working on real-world datasets to uncover patterns and trends
-- 📫 Reach me at: **payalbhattacharya69-art@gmail.com**
+- 📫 Reach me at: **payalbhattacharya69@gmail.com**
 
 ---
 
